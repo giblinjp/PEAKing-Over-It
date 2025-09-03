@@ -2,7 +2,7 @@
 
 Ever thought to yourself "these maps aren't heard enough!"? No? Well too bad! This mod utilizes Snosz's TerrainCustomizer mod to give each Ascent level its own unique terrain and obstacles, with the upper Ascent levels aiming to have a bennet foddy "getting over it" feel of impossibility. 
 
-![calderra](https://postimg.cc/Wh8nbzFq](https://i.postimg.cc/Mp2r5jz5/20250903154320-1.jpg)
+![calderra](https://i.postimg.cc/Mp2r5jz5/20250903154320-1.jpg)
 
 This mod requires **all players to have it installed** in order to function properly.
 
