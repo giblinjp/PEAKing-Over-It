@@ -9,7 +9,7 @@ This mod requires **all players to have it installed** in order to function prop
 ## Installation: 
 1) Click "Download" in Thunderstore
 
-# Usage:
+## Usage:
   Maps are automatically tied to the Ascent levels. Launching the Ascent in the terminal will take you straight to the corresponding map. 
   Until further testing, assume only the host can start the game, and that clients starting will cause problems.
 
