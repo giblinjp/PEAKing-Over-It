@@ -1,0 +1,32 @@
+SHORE
+   - mess around with editor, figure out what sorts of hard terrain are viable
+   - Urchin Hell (Ascent 7)
+   - Maybe try something with removing 90% of terrain and adding big trees?
+TROPICS
+   - Tenderfoot rn is like just weird waterfall stuffs
+   - poison hell
+   - vine hell
+   - can i get the floating island stuff working?
+   - always raining
+
+MESA
+   - Dynamite Hell
+   - Cactus Hell (specifically ascent part)
+   - Remove the Interior? (I think that's actually doable)
+   - Increase tornado count a LOT
+   - Always Day? probably has to be pre ascent-4
+
+ALPINE
+   - Idk i need to see its editor to know more
+   - Geyser hell (Ascent 6)
+   - always snowing (Ascent 7)
+
+CALDERA
+   - super super tall stuff (done, current version tenderfoot)
+   - super super tall, but spread out, with changes (sounds good for ascent 1?)
+   - super fast lava, normal terrain (need to figure out which ascent(s) to associate with)
+   - super sparse terrain 
+
+KILN
+   - lava rises 2x as fast or sooner?
+   - sparse terrain?
